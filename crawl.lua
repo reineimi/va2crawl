@@ -1,3 +1,3 @@
 require 'va2bash'
-require 'va2crawl'
+local crawl = require 'va2crawl'
 crawl:run_in_shell()
