@@ -1,6 +1,6 @@
 > [va2/lib/va2crawl.lua](https://github.com/reineimi/va2/blob/main/lib/va2crawl.lua)
 # Va2: Crawl
-Website SEO crawler and debugger.
+Website crawler, validator and SEO optimizer.
 
 # Installation & Usage
 1. Download `install.sh`
