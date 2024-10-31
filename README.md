@@ -13,5 +13,5 @@ lua crawl.lua
 
 You can also set alias in your `~/.bashrc`, for example:
 ```
-alias crawl='lua ~/Documents/lua/crawl/crawl.lua'
+alias crawl='cd ~/Documents/lua/crawl; clear; lua crawl.lua'
 ```
