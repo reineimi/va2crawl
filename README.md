@@ -4,6 +4,9 @@ Website crawler, validator and SEO optimizer.
 
 # Installation & Usage
 1. Download `install.sh`
+```bash
+curl -LO https://raw.githubusercontent.com/reineimi/va2crawl/refs/heads/main/install.sh
+```
 2. Put it in your preferred directory (for example, `~/Documents/lua/crawl`)
 3. Run `sh install.sh` to download the script and requirements
 4. Call the script from the directory using:
