@@ -19,5 +19,5 @@ You can also set alias in your `~/.bashrc`, for example:
 alias crawl='cd ~/Documents/lua/crawl; clear; lua crawl.lua'
 ```
 
-# Preview from 2024/11/01
-![image](https://github.com/user-attachments/assets/8b951014-e8d7-4c37-bdd2-938f9b9c72a1)
+# Preview from 2024/11/07
+![preview](https://github.com/user-attachments/assets/7e8f1204-c85d-4b0b-b2ed-771ed1da99f9)
